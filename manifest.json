@@ -1,0 +1,11 @@
+{
+    "name": "finance News",
+    "version": "1.0.0",
+    "description": "All about finance News",
+    "manifest_version": 3,
+    "author": "Indrajit Mandol",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    }
+}
